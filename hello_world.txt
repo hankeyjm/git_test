@@ -1,0 +1,3 @@
+My first odin project
+Hello future me!
+I hope we keep at it and discover if we have a talent or knack at this
